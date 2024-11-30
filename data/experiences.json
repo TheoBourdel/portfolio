@@ -1,0 +1,123 @@
+[
+    {
+      "title": "2024",
+      "content": [
+        {
+          "name": "Master Ingénierie du Web",
+          "location": "ESGI - Paris",
+          "school": true,
+          "active": true,
+          "description": "Master en alternance en Ingénierie du Web. J'ai choisi cette formation pour me perfectionner en développement web. J'ai pu approfondir mes connaissances en développement front-end et back-end. J'ai aussi appris à travailler en équipe et à gérer des projets de A à Z."
+        }
+      ]
+    },
+    {
+      "title": "2022",
+      "content": [
+        {
+          "name": "Développeur FullStack (alternance)",
+          "location": "Juridifeel - Paris",
+          "school": false,
+          "active": true,
+          "description": "Développement d’un Saas pour automatiser le suivi juridique des sociétés. J'ai travaillé sur le développement de la partie 'mon compte' du saas, avec la gestions des informations utilisateurs. J'ai aussi travaillé sur le développement d'un coffre fort numérique pour stocker des documents. J'ai utilisé RxJs pour gérer les appels API et les données asynchrones. L'utilisation d'Azure Blob Storage m'a permis de stocker les fichiers de manière sécurisée. J'ai utilisé mongodb pour Stocker certaines informations de l'application.",
+          "stacks": [
+            {
+              "name": "Angular",
+              "icon": "devicon-angularjs-plain"
+            },
+            {
+              "name": "Sass",
+              "icon": "devicon-sass-original"
+            }, 
+            {
+              "name": "Symfony",
+              "icon": "devicon-symfony-original"
+            },
+            {
+              "name": "Azure DevOps",
+              "icon": "devicon-azuredevops-plain"
+            },
+            {
+              "name": "Azure",
+              "icon": "devicon-azure-plain"
+            },
+            {
+              "name": "MongoDB",
+              "icon": "devicon-mongodb-plain"
+            },
+            {
+              "name": "MySQL",
+              "icon": "devicon-mysql-original"
+            },
+            {
+              "name": "Figma",
+              "icon": "devicon-figma-plain"
+            }
+          ]
+        },
+        {
+          "name": "Bachelor Ingénierie du Web",
+          "location": "ESGI - Paris",
+          "school": true,
+          "active": false,
+          "description": "Bachelor en alternance en Ingénierie du Web. J'ai choisi cette formation pour me perfectionner en développement web. J'ai pu approfondir mes connaissances en développement front-end et back-end. J'ai aussi appris à travailler en équipe et à gérer des projets de A à Z."
+        }
+      ]
+    },
+    {
+      "title": "2021",
+      "content": [
+        {
+          "name": "Développeur React (alternance)",
+          "location": "HappyDevFactory - Paris",
+          "school": false,
+          "active": false,
+          "description": "Développement d’un Saas pour automatiser le suivi juridique des sociétés. J'ai travaillé sur le développement de la partie 'mon compte' du saas, avec la gestions des informations utilisateurs. J'ai aussi travaillé sur le développement d'un coffre fort numérique pour stocker des documents. J'ai utilisé RxJs pour gérer les appels API et les données asynchrones. L'utilisation d'Azure Blob Storage m'a permis de stocker les fichiers de manière sécurisée.",
+          "stacks": [
+            {
+              "name": "ReactJs",
+              "icon": "devicon-react-original"
+            },
+            {
+              "name": "Figma",
+              "icon": "devicon-figma-plain"
+            },
+            {
+              "name": "Sass",
+              "icon": "devicon-sass-original"
+            }
+          ]
+        }, 
+        {
+          "name": "BTS SIO (option SLAM)",
+          "location": "Ensemble Sainte Marie - Joinville le Pont",
+          "school": true,
+          "active": false,
+          "description": "BTS Services Informatiques aux Organisations, option Solutions Logicielles et Applications Métiers. J'ai choisi cette formation pour me spécialiser dans le développement d'applications web et mobiles. J'ai pu apprendre les bases du développement web et mobile, ainsi que les bases de la gestion de projet.",
+          "stacks": []
+        }
+      ]
+    },
+    {
+      "title": "2020",
+      "content": [
+        {
+          "name": "Technicien Informatique (stage)",
+          "location": "ATF Gaia - Moissy-Cramayel",
+          "school": false,
+          "active": false,
+          "description": "Stage de technicien informatique. J'ai pu apprendre les bases de la maintenance informatique, ainsi que les bases de la gestion de parc informatique.",
+          "stacks": [
+            {
+              "name": "Windows",
+              "icon": "devicon-windows8-original"
+            },
+            {
+              "name": "Linux",
+              "icon": "devicon-linux-plain"
+            }
+          ]
+        }
+      ]
+    }
+]

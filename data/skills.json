@@ -1,0 +1,102 @@
+[
+    {
+        "name": "ReactJs",
+        "description": "Front-End",
+        "icon": "devicon-react-original"
+    },
+    {
+        "name":  "Angular",
+        "description": "Front-End",
+        "icon": "devicon-angularjs-plain"
+    },
+    {
+        "name": "Symfony",
+        "description": "Back-End",
+        "icon": "devicon-symfony-original"
+    },
+    {
+        "name": "MongoDB",
+        "description": "Back-End",
+        "icon": "devicon-mongodb-plain"
+    },
+    {
+        "name": "PostgreSQL",
+        "description": "Back-End",
+        "icon": "devicon-postgresql-plain"
+    },
+    {
+        "name": "Sass",
+        "description": "Front-End",
+        "icon": "devicon-sass-original"
+    },
+    {
+        "name": "RxJs",
+        "description": "Front-End",
+        "icon": "devicon-rxjs-plain"
+    },
+    {
+        "name": "Figma",
+        "description": "Design",
+        "icon": "devicon-figma-plain"
+    },
+    {
+        "name": "Docker",
+        "description": "DevOps",
+        "icon": "devicon-docker-plain"
+    },
+    {
+        "name": "Golang",
+        "description": "Back-End",
+        "icon": "devicon-go-plain"
+    },
+    {
+        "name": "Linux",
+        "description": "DevOps",
+        "icon": "devicon-linux-plain"
+    },
+    {
+        "name": "TailwindCSS",
+        "description": "Front-End",
+        "icon": "devicon-tailwindcss-plain"
+    },
+    {
+        "name": "MySQL",
+        "description": "Back-End",
+        "icon": "devicon-mysql-plain"
+    },
+    {
+        "name": "Flutter",
+        "description": "Mobile",
+        "icon": "devicon-flutter-plain"
+    },
+    {
+        "name": "Express",
+        "description": "Back-End",
+        "icon": "devicon-express-original"
+    },
+    {
+        "name": "Git",
+        "description": "DevOps",
+        "icon": "devicon-git-plain"
+    },
+    {
+        "name": "Kubernetes",
+        "description": "DevOps",
+        "icon": "devicon-kubernetes-plain"
+    },
+    {
+        "name": "Socket.io",
+        "description": "Back-End",
+        "icon": "devicon-socketio-original"
+    },
+    {
+        "name": "NodeJs",
+        "description": "Back-End",
+        "icon": "devicon-nodejs-plain"
+    },
+    {
+        "name": "Terrafom",
+        "description": "DevOps",
+        "icon": "devicon-terraform-plain"
+    }
+]
