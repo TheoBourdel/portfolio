@@ -51,7 +51,7 @@ export default function WaterWays() {
       <div className='mt-16 px-4'>
         <h4 className='text-2xl font-semibold mb-2'>Contexte</h4>
         <p>
-          Projet réalisé en groupe de 4 personnes pendant le 1er semestre de ma 2ème année de Master. On devait créer une plateforme de réservation de services en ligne à l'aide de ReactJS et Api Platform. On avait comme obligation aussi d'héberger notre projet sur un serveur et de mettre en place une CI/CD.
+          Projet réalisé en groupe de 4 personnes pendant le 1er semestre de ma 2ème année de Master. On devait créer une plateforme de réservation de services en ligne à l&aposaide de ReactJS et Api Platform. On avait comme obligation aussi d&aposhéberger notre projet sur un serveur et de mettre en place une CI/CD.
         </p>
       </div>
       <div className='mt-16 px-4'>
@@ -70,7 +70,7 @@ export default function WaterWays() {
             <li className='dark:text-gray-300 text-gray-500'>
               Espace de visualisation de ses réservations avec possibilité :
               <ul className='list-disc ml-6'>
-                <li className='dark:text-gray-300 text-gray-500'>d'annuler</li>
+                <li className='dark:text-gray-300 text-gray-500'>d&aposannuler</li>
                 <li className='dark:text-gray-300 text-gray-500'>décaler le RDV</li>
                 <li className='dark:text-gray-300 text-gray-500'>de reprendre RDV (même prestataire / même prestation / même salarié)</li>
               </ul>
@@ -168,7 +168,7 @@ export default function WaterWays() {
               Tests avant de merge le code sur la branche main (au moment de la pull request)
             </li>
             <li className='dark:text-gray-300 text-gray-500'>
-              Mise en place d'outils collaboratifs
+              Mise en place d&aposoutils collaboratifs
             </li>
           </ol>
       </div>

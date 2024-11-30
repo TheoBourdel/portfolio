@@ -51,7 +51,7 @@ export default function page() {
             <div className='mt-16 px-4'>
             <h4 className='text-2xl font-semibold mb-2'>Contexte</h4>
             <p>
-                Projet réalisé en groupe de 4 personnes pendant le 2ème semestre de ma 1er année de Master. On devait créer un mini jeu en temps réel sur une page web à l'aide de VueJs, NodeJS, MongoDB et Socket.io.
+                Projet réalisé en groupe de 4 personnes pendant le 2ème semestre de ma 1er année de Master. On devait créer un mini jeu en temps réel sur une page web à l&aposaide de VueJs, NodeJS, MongoDB et Socket.io.
             </p>
       </div>
       <div className='mt-16 px-4'>
