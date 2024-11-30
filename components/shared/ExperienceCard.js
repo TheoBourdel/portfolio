@@ -8,14 +8,14 @@ export default function ExperienceCard({ school, active, name, location, descrip
                 <h2 className='text-black dark:text-white font-semibold text-2xl'>{name}</h2>
                 <div className='md:flex flex-row ml-auto gap-2 hidden'>
                     {active ? (
-                        <span class="bg-green-100 text-green-800 text-xs font-medium px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-green-400 border border-green-400 h-fit">En cours</span>
+                        <span className="bg-green-100 text-green-800 text-xs font-medium px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-green-400 border border-green-400 h-fit">En cours</span>
                     ) : (
                         <></>
                     )}
                     {school ? (
-                        <span class="bg-indigo-100 text-indigo-800 text-xs font-medium px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-indigo-400 border border-indigo-400 h-fit">School</span>
+                        <span className="bg-indigo-100 text-indigo-800 text-xs font-medium px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-indigo-400 border border-indigo-400 h-fit">School</span>
                         ) : (
-                        <span class="bg-indigo-100 text-indigo-800 text-xs font-medium px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-indigo-400 border border-indigo-400 h-fit">Work</span>                
+                        <span className="bg-indigo-100 text-indigo-800 text-xs font-medium px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-indigo-400 border border-indigo-400 h-fit">Work</span>                
                     )}
                 </div>
             </header>
@@ -25,14 +25,14 @@ export default function ExperienceCard({ school, active, name, location, descrip
                 </span>
                 <div className='flex flex-row ml-auto gap-2 md:hidden'>
                     {active ? (
-                        <span class="bg-green-100 text-green-800 text-xs font-medium px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-green-400 border border-green-400 h-fit">En cours</span>
+                        <span className="bg-green-100 text-green-800 text-xs font-medium px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-green-400 border border-green-400 h-fit">En cours</span>
                     ) : (
                         <></>
                     )}
                     {school ? (
-                        <span class="bg-indigo-100 text-indigo-800 text-xs font-medium px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-indigo-400 border border-indigo-400 h-fit">School</span>
+                        <span className="bg-indigo-100 text-indigo-800 text-xs font-medium px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-indigo-400 border border-indigo-400 h-fit">School</span>
                         ) : (
-                        <span class="bg-indigo-100 text-indigo-800 text-xs font-medium px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-indigo-400 border border-indigo-400 h-fit">Work</span>                
+                        <span className="bg-indigo-100 text-indigo-800 text-xs font-medium px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-indigo-400 border border-indigo-400 h-fit">Work</span>                
                     )}
                 </div>
             </div>

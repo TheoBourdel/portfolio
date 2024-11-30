@@ -7,7 +7,7 @@ export default function WaterWays() {
   return (
     <section className='sm:mt-10'>
       <div className="relative">
-        <Image src={Project11} className="rounded-xl w-full object-cover sm:h-96 h-64" />
+        <Image src={Project11} alt='project-image' className="rounded-xl w-full object-cover sm:h-96 h-64" />
         <div className="absolute top-0 left-0 w-full h-full rounded-xl">
           <div className="bg-black opacity-50 w-full h-full absolute top-0 left-0 rounded-xl"></div>
           <h1 className="relative text-white text-3xl sm:text-6xl font-bold flex items-center justify-center h-full z-10">WaterWays</h1>
