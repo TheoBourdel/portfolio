@@ -41,7 +41,7 @@ export default function page() {
         </div>
             <div className='mt-16 px-4'>
             <h4 className='text-2xl font-semibold mb-2'>Contexte</h4>
-            <p>
+            <p className='dark:text-gray-300 text-gray-500'>
                 Projet réalisé en groupe de 4 personnes pendant le 2ème semestre de ma 2ème année de Master. Le but de ce projet est de réaliser des applications Flutter mobile et web sʼinterfaçant avec une
                 API Golang pour gérer des groupes de personnes autour dʼune thématique commune (école,
                 concert, voyage, sport, événement…). Il sera nécessaire de trouver un sujet correspondant

@@ -50,7 +50,7 @@ export default function WaterWays() {
       </div>
       <div className='mt-16 px-4'>
         <h4 className='text-2xl font-semibold mb-2'>Contexte</h4>
-        <p>
+        <p className='dark:text-gray-300 text-gray-500'>
           Projet réalisé en groupe de 4 personnes pendant le 1er semestre de ma 2ème année de Master. On devait créer une plateforme de réservation de services en ligne à l&aposaide de ReactJS et Api Platform. On avait comme obligation aussi d&aposhéberger notre projet sur un serveur et de mettre en place une CI/CD.
         </p>
       </div>

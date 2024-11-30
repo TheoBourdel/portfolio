@@ -19,7 +19,7 @@
           "location": "Juridifeel - Paris",
           "school": false,
           "active": true,
-          "description": "Développement d’un Saas pour automatiser le suivi juridique des sociétés. J'ai travaillé sur le développement de la partie 'mon compte' du saas, avec la gestions des informations utilisateurs. J'ai aussi travaillé sur le développement d'un coffre fort numérique pour stocker des documents. J'ai utilisé RxJs pour gérer les appels API et les données asynchrones. L'utilisation d'Azure Blob Storage m'a permis de stocker les fichiers de manière sécurisée. J'ai utilisé mongodb pour Stocker certaines informations de l'application.",
+          "description": "Développement d’un Saas pour automatiser le suivi juridique des sociétés. J'ai travaillé sur le développement de la partie 'mon compte' du saas, avec la gestions des informations utilisateurs. J'ai aussi travaillé sur le développement d'un coffre fort numérique pour stocker des documents. J'ai utilisé RxJs et NgRx pour gérer les appels API et les données asynchrones. L'utilisation d'Azure Blob Storage m'a permis de stocker les fichiers de manière sécurisée. J'ai utilisé mongodb pour stocker certaines informations de l'application.",
           "stacks": [
             {
               "name": "Angular",
@@ -72,7 +72,7 @@
           "location": "HappyDevFactory - Paris",
           "school": false,
           "active": false,
-          "description": "Développement d’un Saas pour automatiser le suivi juridique des sociétés. J'ai travaillé sur le développement de la partie 'mon compte' du saas, avec la gestions des informations utilisateurs. J'ai aussi travaillé sur le développement d'un coffre fort numérique pour stocker des documents. J'ai utilisé RxJs pour gérer les appels API et les données asynchrones. L'utilisation d'Azure Blob Storage m'a permis de stocker les fichiers de manière sécurisée.",
+          "description": "Développement d'un site vitrine en ReactJS à l'aide d'une maquette Figma. Pour le CSS j'ai appris à utiliser Sass. J'ai aussi travaillé sur l'intégration d'une application mobile en React Native.",
           "stacks": [
             {
               "name": "ReactJs",
@@ -85,6 +85,10 @@
             {
               "name": "Sass",
               "icon": "devicon-sass-original"
+            },
+            {
+              "name": "React Native",
+              "icon": "devicon-react-original"
             }
           ]
         }, 
