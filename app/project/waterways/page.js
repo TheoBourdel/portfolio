@@ -32,19 +32,19 @@ export default function WaterWays() {
       </div>
       <div className='mt-16 px-4 flex flex-col gap-4'>
         <div className='flex flex-row items-center gap-6'>
-          <hr className='w-5' />
+          <hr className='w-5 dark:border-white border-black' />
           <span className='cursor-pointer hover:underline'>
             <Link href='https://github.com/marouaneTalbi/waterways_project' target='_blank'>GitHub</Link>
           </span>
         </div>
         <div className='flex flex-row items-center gap-6'>
-          <hr className='w-5' />
+          <hr className='w-5 dark:border-white border-black' />
           <span className='cursor-pointer hover:underline'>
             <Link href="https://www.figma.com/design/XUnWhecisqFbg4B2yniMsr/Challenge-S1?node-id=0-1&node-type=canvas&t=Xe0UdfnPtYX1zmpd-0" target='_blank'>Figma</Link>
           </span>
         </div>
         <div className='flex flex-row items-center gap-6' title='Plus disponible'>
-          <hr className='w-5' />
+          <hr className='w-5 dark:border-white border-black' />
           <span className='cursor-pointer line-through'>Visiter le site</span>
         </div>
       </div>

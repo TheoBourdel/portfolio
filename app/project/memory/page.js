@@ -32,19 +32,19 @@ export default function page() {
         </div>
         <div className='mt-16 px-4 flex flex-col gap-4'>
             <div className='flex flex-row items-center gap-6'>
-                <hr className='w-5' />
+                <hr className='w-5 dark:border-white border-black' />
                 <span className='cursor-pointer hover:underline'>
                     <Link href="https://github.com/marouaneTalbi/nodejs_vuejs" target='_blank'>GitHub</Link>
                 </span>
             </div>
                 <div className='flex flex-row items-center gap-6'>
-                <hr className='w-5' />
+                <hr className='w-5 dark:border-white border-black' />
                 <span className='cursor-pointer hover:underline'>
                     <Link href="https://www.figma.com/design/rV5JKCaVZQZgtlBeaF505x/Game-Project?node-id=0-1&t=oIq4yAXb8uVZ96O1-1" target='_blank'>Figma</Link>
                 </span>
             </div>
             <div className='flex flex-row items-center gap-6' title='Plus disponible'>
-                <hr className='w-5' />
+                <hr className='w-5 dark:border-white border-black' />
                 <span className='cursor-pointer line-through'>Visiter le site</span>
             </div>
         </div>
