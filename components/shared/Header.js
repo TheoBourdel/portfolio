@@ -8,13 +8,11 @@ export default function Header() {
         <Link href="/">
             <h1 className='dark:text-white font-bold text-2xl'>Bourdel Théo</h1>
         </Link>
-        {/* <nav>
+        <nav className='ml-auto mr-6'>
             <ul className='flex flex-row gap-12'>
-                <li className='dark:text-white'>Home</li>
-                <li className='dark:text-white'>About</li>
-                <li className='dark:text-white'>Contact</li>
+                <li className='dark:text-white'><Link href="/">Accueil</Link></li>
             </ul>
-        </nav> */}
+        </nav>
         <ThemeModeButton />
     </header>
   )
